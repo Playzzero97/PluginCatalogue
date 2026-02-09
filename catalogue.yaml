@@ -6,4 +6,6 @@ plugins:
     repository: "https://github.com/Playzzero97/AutoBlinker"
   - name: "Automatic Shifting (Manual Gearbox)"
     repository: "https://github.com/Playzzero97/Automatic-Shifting--Manual-Transmission-"
+  - name: "[Experimental] High-Speed Map Mode"
+    repository: "https://github.com/Playzzero97/High-Speed-Map-Mode"
 catalogues: []
